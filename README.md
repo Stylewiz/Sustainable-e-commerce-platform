@@ -7,7 +7,7 @@ Required Skills ⚡
 Cost Estimates 💰
 
 # Developed With:
-Visual Studio Code - A source code editor
+Visual Studio Code - A source code editor  
 AWS CodePipeline - For implementing CI/CD
 AWS S3 - To store the website source code and additional files in the cloud
 AWS Route 53 - AWS DNS service
